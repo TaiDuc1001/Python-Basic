@@ -1,0 +1,3 @@
+# Python-Basic
+### Hi there 👋
+  This is my project named Python-Basic. And it's just basic...
